@@ -1,0 +1,17 @@
+{
+  "name": "f2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "f2c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }    
+}
